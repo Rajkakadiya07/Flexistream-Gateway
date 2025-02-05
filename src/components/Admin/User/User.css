@@ -1,0 +1,11 @@
+.card1{
+    margin-bottom: 25px;
+    border:none;
+    border-radius: 5px;
+    box-shadow: 0px 0 30px rgba(1, 41, 112, 0.1);
+  }
+/* .card:hover{
+   transform: scale(1.1);
+   transition: .4s;
+} */
+  
